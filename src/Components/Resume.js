@@ -13,7 +13,7 @@ function Resume() {
                 <div className="experience_Container">
                     <h2 className="container_Header">Experience</h2>
                     <div className="experience_Role">
-                        <h3>Junior Software Developer</h3>
+                        <h3>Junior Software Engineer</h3>
                         <span>Hatronika (Pty) Ltd, Remote (Sept 2021 - Present)</span>
                         <p>- Still building experience in my role here, check back in a few months</p>                        
                     </div>
